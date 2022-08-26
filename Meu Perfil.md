@@ -2,7 +2,7 @@
 
 
 - 👋 Olá, eu sou @BrunoTeleginkiVieira
-- :+1:meu email de contato é bruno.tleginski.vieira@escola.pr.gov.br
+- :+1:meu email de contato é bruno.teleginski.vieira@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente as linguagens javaSrcript e Scratch
 
